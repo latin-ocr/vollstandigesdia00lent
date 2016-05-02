@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./vollstandigesdia00lent_0895.png"; bbox 0 0 2194 3868; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 493 930 1355 1120">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 493 930 1355 1120">
+     <span class='ocr_line' id='line_1_1' title="bbox 493 930 1355 1120; baseline 0.003 -27"><span class='ocrx_word' id='word_1_1' title='bbox 493 930 1355 1120; x_wconf 47' lang='lat' dir='ltr'>&amp;magen</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 851 1558 1036 1634">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 851 1558 1036 1634">
+     <span class='ocr_line' id='line_1_2' title="bbox 851 1558 1036 1634; baseline 0 0"><span class='ocrx_word' id='word_1_2' title='bbox 851 1558 1036 1634; x_wconf 65' lang='grc' dir='ltr'>ὓὓὓὓ</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 30 1685 1688 1978">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 30 1685 1688 1978">
+     <span class='ocr_line' id='line_1_3' title="bbox 30 1685 1688 1978; baseline -0.003 -62.696"><span class='ocrx_word' id='word_1_3' title='bbox 30 1685 1688 1978; x_wconf 0' lang='lat' dir='ltr'> thnung</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 137 2010 1699 2413">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 137 2010 1699 2413">
+     <span class='ocr_line' id='line_1_4' title="bbox 137 2010 1699 2160; baseline -0.003 -17"><span class='ocrx_word' id='word_1_4' title='bbox 137 2018 333 2158; x_wconf 55' lang='lat' dir='ltr'>§3ae</span> <span class='ocrx_word' id='word_1_5' title='bbox 377 2010 811 2157; x_wconf 57' lang='lat' dir='ltr'>ffissmiscb</span> <span class='ocrx_word' id='word_1_6' title='bbox 831 2011 1232 2160; x_wconf 54' lang='lat' dir='ltr'>ffiayfetl.</span> <span class='ocrx_word' id='word_1_7' title='bbox 1282 2012 1699 2160; x_wconf 53' lang='grc' dir='ltr'>ἑξῑαρῐείῖάε</span> 
+     </span>
+     <span class='ocr_line' id='line_1_5' title="bbox 282 2223 1551 2413; baseline 0.003 -5"><span class='ocrx_word' id='word_1_8' title='bbox 282 2223 596 2407; x_wconf 35' lang='grc' dir='ltr'>ΜΕ</span> <span class='ocrx_word' id='word_1_9' title='bbox 632 2223 782 2407; x_wconf 51' lang='grc' dir='ltr'>ἕέ</span> <span class='ocrx_word' id='word_1_10' title='bbox 818 2231 1126 2413; x_wconf 38' lang='grc' dir='ltr'>ἐξῇ</span> <span class='ocrx_word' id='word_1_11' title='bbox 1222 2247 1551 2388; x_wconf 86' lang='lat' dir='ltr'>VII</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
